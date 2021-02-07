@@ -1,0 +1,3 @@
+800 seconds at full power is 180 degree turn
+Robot speed : 1.0639527120157433 m/s
+Field size : 3.65 m
